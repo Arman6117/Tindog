@@ -42,6 +42,7 @@
     margin: 5% 3% 5% 0;
 }
 .title-image { 
+        text-align: center;
    right: 8%;
     position: absolute;
     width: 60%;
